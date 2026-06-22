@@ -1,6 +1,6 @@
 # 📂 项目代码索引
 
-> 按语言分类的项目导航，共 22 个私有仓库。
+> 按语言分类的项目导航，共 24 个私有仓库。
 
 ---
 
@@ -11,7 +11,7 @@
 | 1 | [generate-authorisation](https://github.com/Bblueye/generate-authorisation) | 授权书查询与文档生成工具 |
 | 2 | [inv-tools](https://github.com/Bblueye/inv-tools) | 进项发票管理桌面工具 |
 | 3 | [kingdee-bos-plugins](https://github.com/Bblueye/kingdee-bos-plugins) | 金蝶K3Cloud ERP二次开发插件集合 |
-| 4 | [test-send-email](https://github.com/Bblueye/test-send-email) | 邮件发送测试工具 |
+| 4 | [test-send-email](https://github.com/Bblueye/test-send-email) | 邮件发送测试工具（C# WinForms版） |
 | 5 | [zby-crm-cloud-plugin](https://github.com/Bblueye/zby-crm-cloud-plugin) | CRM与金蝶Cloud数据同步插件 |
 
 ---
@@ -30,25 +30,27 @@
 | 6 | [overdue-reminder](https://github.com/Bblueye/overdue-reminder) | 应收账款逾期邮件催收 |
 | 7 | [sales-commission-check](https://github.com/Bblueye/sales-commission-check) | 销售佣金核查报表 |
 | 8 | [crm-expense-management](https://github.com/Bblueye/crm-expense-management) | CRM费用报销管理系统 |
+| 9 | [rubberprice](https://github.com/Bblueye/rubberprice) | 马来西亚橡胶价格自动获取 |
 
 ### 数据同步/集成
 
 | 序号 | 仓库 | 描述 |
 |:---:|------|------|
-| 9 | [wangdiantong-sdk](https://github.com/Bblueye/wangdiantong-sdk) | 旺店通ERP对接工具集 |
-| 10 | [sync-expense-apply](https://github.com/Bblueye/sync-expense-apply) | 费用申请单→金蝶同步 |
-| 11 | [sync-outstock-apply](https://github.com/Bblueye/sync-outstock-apply) | 样品出库单→金蝶同步 |
-| 12 | [huaian-parking-sync](https://github.com/Bblueye/huaian-parking-sync) | 淮安文化宫停车场数据同步 |
-| 13 | [zhouenlai-parking-sync](https://github.com/Bblueye/zhouenlai-parking-sync) | 周恩来集散中心停车场数据同步 |
-| 14 | [ParkNum](https://github.com/Bblueye/ParkNum) | 停车场数据同步（通用版） |
+| 10 | [wangdiantong-sdk](https://github.com/Bblueye/wangdiantong-sdk) | 旺店通ERP对接工具集 |
+| 11 | [sync-expense-apply](https://github.com/Bblueye/sync-expense-apply) | 费用申请单→金蝶同步 |
+| 12 | [sync-outstock-apply](https://github.com/Bblueye/sync-outstock-apply) | 样品出库单→金蝶同步 |
+| 13 | [huaian-parking-sync](https://github.com/Bblueye/huaian-parking-sync) | 淮安文化宫停车场数据同步 |
+| 14 | [zhouenlai-parking-sync](https://github.com/Bblueye/zhouenlai-parking-sync) | 周恩来集散中心停车场数据同步 |
+| 15 | [ParkNum](https://github.com/Bblueye/ParkNum) | 停车场数据同步（通用版） |
 
-### 其他工具
+### 其他工具/邮件
 
 | 序号 | 仓库 | 描述 |
 |:---:|------|------|
-| 15 | [face-park-card](https://github.com/Bblueye/face-park-card) | 人脸/车场/门禁数据监控 |
-| 16 | [inventory-decision-system](https://github.com/Bblueye/inventory-decision-system) | 库存预测与采量决策系统 |
-| 17 | [make-autokey](https://github.com/Bblueye/make-autokey) | 屏幕取色AHK脚本生成器 |
+| 16 | [face-park-card](https://github.com/Bblueye/face-park-card) | 人脸/车场/门禁数据监控 |
+| 17 | [inventory-decision-system](https://github.com/Bblueye/inventory-decision-system) | 库存预测与采量决策系统 |
+| 18 | [make-autokey](https://github.com/Bblueye/make-autokey) | 屏幕取色AHK脚本生成器 |
+| 19 | [sendmail-test](https://github.com/Bblueye/sendmail-test) | 邮件发送测试工具（Python版） |
 
 ---
 
